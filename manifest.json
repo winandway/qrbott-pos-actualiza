@@ -1,8 +1,8 @@
 {
- "version": "2026-09-02-1024",
- "archivo": "parche-2026-09-02-1024.tar.gz",
- "sha256": "82effca4be1bf41c87ee0886ea4f7084256acaa5ca6dfc6218f0c7c387bbafce",
+ "version": "2026-09-02-1352",
+ "archivo": "parche-2026-09-02-1352.tar.gz",
+ "sha256": "a4899b5d0bae1869693497d225c82e5c6a113930f32c4a81880b3d5b6bf78e62",
  "minimo": "2026-09-01-2109",
- "fecha": "2026-09-02 10:24:46",
- "notas": "Menú de inicio nativo estilo XP en 3 idiomas (candados 77-78); estado honesto del disco tras un parche"
+ "fecha": "2026-09-02 13:52:37",
+ "notas": "Cinco correcciones del menú: gestor de impresoras, actualizar e informe con aviso, esconder la barra explicado, escritorio con salida (candados 79-81)"
 }
