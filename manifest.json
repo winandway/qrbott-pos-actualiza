@@ -1,0 +1,8 @@
+{
+ "version": "2026-09-02-0941",
+ "archivo": "parche-2026-09-02-0941.tar.gz",
+ "sha256": "242b9b4867183d8da4ad3d6f45e7a6fa25efd15d06072f4ca8bacf2346fdeef4",
+ "minimo": "2026-09-01-2109",
+ "fecha": "2026-09-02 09:41:55",
+ "notas": "Primer parche real: el reintento de protección del disco corrige el estado; versión honesta en el pie"
+}
