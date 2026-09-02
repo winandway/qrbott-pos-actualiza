@@ -1,8 +1,8 @@
 {
- "version": "2026-09-02-1708",
- "archivo": "parche-2026-09-02-1708.tar.gz",
- "sha256": "eb8aaf995869337d0fcd8e3be1d128a8f87be5ef52c9bef9887831016c041a3b",
+ "version": "2026-09-02-1943",
+ "archivo": "parche-2026-09-02-1943.tar.gz",
+ "sha256": "34916ee753ea69e06a33fb9bef12e2b90e9f396d423376df4329991f21802832",
  "minimo": "2026-09-01-2109",
- "fecha": "2026-09-02 17:08:04",
- "notas": "Arreglo del aviso de actualizacion (decia error cuando iba bien) y fin del texto blanco sobre blanco en los botones (candado 82)"
+ "fecha": "2026-09-02 19:43:03",
+ "notas": "El sistema operativo se llama XUNIL OS 1.0 (se dice su-nil), Developed by Windoce LLC — arranque, consola, menu, informe y pantallas (candados 83-84)"
 }
