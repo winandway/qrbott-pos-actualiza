@@ -1,8 +1,8 @@
 {
- "version": "2026-09-02-0941",
- "archivo": "parche-2026-09-02-0941.tar.gz",
- "sha256": "242b9b4867183d8da4ad3d6f45e7a6fa25efd15d06072f4ca8bacf2346fdeef4",
+ "version": "2026-09-02-1024",
+ "archivo": "parche-2026-09-02-1024.tar.gz",
+ "sha256": "82effca4be1bf41c87ee0886ea4f7084256acaa5ca6dfc6218f0c7c387bbafce",
  "minimo": "2026-09-01-2109",
- "fecha": "2026-09-02 09:41:55",
- "notas": "Primer parche real: el reintento de protección del disco corrige el estado; versión honesta en el pie"
+ "fecha": "2026-09-02 10:24:46",
+ "notas": "Menú de inicio nativo estilo XP en 3 idiomas (candados 77-78); estado honesto del disco tras un parche"
 }
