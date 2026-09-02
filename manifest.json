@@ -1,8 +1,8 @@
 {
- "version": "2026-09-02-1506",
- "archivo": "parche-2026-09-02-1506.tar.gz",
- "sha256": "6e32b7ffec8fbfadaa04ebd8f0a4e35535f5bf1f4bf46531d032944bd1e900eb",
+ "version": "2026-09-02-1708",
+ "archivo": "parche-2026-09-02-1708.tar.gz",
+ "sha256": "eb8aaf995869337d0fcd8e3be1d128a8f87be5ef52c9bef9887831016c041a3b",
  "minimo": "2026-09-01-2109",
- "fecha": "2026-09-02 15:06:30",
- "notas": "Piel moderna del menú (diseño aprobado): plano, azul marino y verde QRBott, íconos nuevos"
+ "fecha": "2026-09-02 17:08:04",
+ "notas": "Arreglo del aviso de actualizacion (decia error cuando iba bien) y fin del texto blanco sobre blanco en los botones (candado 82)"
 }
