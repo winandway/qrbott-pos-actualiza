@@ -1,8 +1,8 @@
 {
- "version": "2026-09-02-1352",
- "archivo": "parche-2026-09-02-1352.tar.gz",
- "sha256": "a4899b5d0bae1869693497d225c82e5c6a113930f32c4a81880b3d5b6bf78e62",
+ "version": "2026-09-02-1506",
+ "archivo": "parche-2026-09-02-1506.tar.gz",
+ "sha256": "6e32b7ffec8fbfadaa04ebd8f0a4e35535f5bf1f4bf46531d032944bd1e900eb",
  "minimo": "2026-09-01-2109",
- "fecha": "2026-09-02 13:52:37",
- "notas": "Cinco correcciones del menú: gestor de impresoras, actualizar e informe con aviso, esconder la barra explicado, escritorio con salida (candados 79-81)"
+ "fecha": "2026-09-02 15:06:30",
+ "notas": "Piel moderna del menú (diseño aprobado): plano, azul marino y verde QRBott, íconos nuevos"
 }
