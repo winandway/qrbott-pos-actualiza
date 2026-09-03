@@ -1,8 +1,8 @@
 {
- "version": "2026-09-02-2145",
- "archivo": "parche-2026-09-02-2145.tar.gz",
- "sha256": "8e64eb14e891bb8ba35f23c6c13785f7700574e8a1c9aa164e4fc2cf4b5957e2",
+ "version": "2026-09-03-1926",
+ "archivo": "parche-2026-09-03-1926.tar.gz",
+ "sha256": "9b40b2d82df2206973107fc9a14b0380700721988e1b806d80499f82f0e79aaf",
  "minimo": "2026-09-01-2109",
- "fecha": "2026-09-02 21:45:21",
- "notas": "El lema de Possum OS: «Siempre puede» (del latin possum, yo puedo). La pronunciacion baja a nota pequena"
+ "fecha": "2026-09-03 19:26:23",
+ "notas": "La mascota de Possum OS: la suricata de pie (logo del dueno) en el menu, el boton de inicio, Acerca de este equipo y el escritorio"
 }
