@@ -1,8 +1,8 @@
 {
- "version": "2026-09-02-2131",
- "archivo": "parche-2026-09-02-2131.tar.gz",
- "sha256": "f9c581459af27774e0ffd28342bbae32e9c93fd50736d54b794419f168ce2996",
+ "version": "2026-09-02-2145",
+ "archivo": "parche-2026-09-02-2145.tar.gz",
+ "sha256": "8e64eb14e891bb8ba35f23c6c13785f7700574e8a1c9aa164e4fc2cf4b5957e2",
  "minimo": "2026-09-01-2109",
- "fecha": "2026-09-02 21:32:01",
- "notas": "La marca Possum OS en todas partes: pantalla «Acerca de este equipo», fondo del escritorio con la zarigueya, cabecera de las ventanas (candado 85)"
+ "fecha": "2026-09-02 21:45:21",
+ "notas": "El lema de Possum OS: «Siempre puede» (del latin possum, yo puedo). La pronunciacion baja a nota pequena"
 }
