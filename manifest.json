@@ -1,8 +1,8 @@
 {
- "version": "2026-09-02-1943",
- "archivo": "parche-2026-09-02-1943.tar.gz",
- "sha256": "34916ee753ea69e06a33fb9bef12e2b90e9f396d423376df4329991f21802832",
+ "version": "2026-09-02-2131",
+ "archivo": "parche-2026-09-02-2131.tar.gz",
+ "sha256": "f9c581459af27774e0ffd28342bbae32e9c93fd50736d54b794419f168ce2996",
  "minimo": "2026-09-01-2109",
- "fecha": "2026-09-02 19:43:03",
- "notas": "El sistema operativo se llama XUNIL OS 1.0 (se dice su-nil), Developed by Windoce LLC — arranque, consola, menu, informe y pantallas (candados 83-84)"
+ "fecha": "2026-09-02 21:32:01",
+ "notas": "La marca Possum OS en todas partes: pantalla «Acerca de este equipo», fondo del escritorio con la zarigueya, cabecera de las ventanas (candado 85)"
 }
