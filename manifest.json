@@ -1,8 +1,8 @@
 {
- "version": "2026-09-03-1926",
- "archivo": "parche-2026-09-03-1926.tar.gz",
- "sha256": "9b40b2d82df2206973107fc9a14b0380700721988e1b806d80499f82f0e79aaf",
- "minimo": "2026-09-01-2109",
- "fecha": "2026-09-03 19:26:23",
- "notas": "La mascota de Possum OS: la suricata de pie (logo del dueno) en el menu, el boton de inicio, Acerca de este equipo y el escritorio"
+ "version": "2026-09-05-1317",
+ "archivo": "parche-2026-09-05-1317.tar.gz",
+ "sha256": "bd53e7f74bea80a5498905971f82e3839684533cfc0f51bdb2ed588d14f441c8",
+ "minimo": "2026-09-05-0339",
+ "fecha": "2026-09-05 13:18:26",
+ "notas": "Wi-Fi: la casilla de la contrasena ya no acumula lo escrito, boton para borrarla, y el fallo dice el motivo REAL (no siempre 'revisa la contrasena'). Ademas, el nombre de una red vecina ya no puede meter codigo en la pantalla. Candado 90."
 }
